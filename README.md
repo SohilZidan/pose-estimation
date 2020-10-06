@@ -5,6 +5,4 @@ Estimatate body poses while a video is being played using PoseNet models provide
 * [EdgeTpu](https://coral.ai/docs/edgetpu/api-intro/)
 * [Tensorflow](https://www.tensorflow.org/install) >= 2
 
-run
-
-`pip install -r requirements.txt`
+  run:  `pip install -r requirements.txt`
